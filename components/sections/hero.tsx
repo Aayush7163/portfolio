@@ -67,7 +67,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-accent/10 to-primary/10 rounded-2xl border border-border"></div>
             <img
               src="/aayushh.png"
-              alt="Developer portrait"
+              alt="aayush portrait"
               className="w-full h-full object-cover rounded-2xl"
             />
           </div>

@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="space-y-6 animate-fade-in">
           <div className="space-y-2">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground text-center md:text-left">
-              Hello ! 'm Aayush Regmi
+              Hello ! I'm Aayush Regmi
             </h1>
           </div>
 
